@@ -1,0 +1,22 @@
+.counter {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.counterNone {
+  display: none;
+}
+
+.buttonPlus, .buttonMinus {
+  width: 80px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.textMessage {
+  text-align: center;
+}
